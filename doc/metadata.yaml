@@ -1,0 +1,13 @@
+description: ' Switched power unit.'
+github_branch: BATPOWER01A
+github_description: ' Switched power unit.'
+github_repo: BATPOWER01
+github_url: https://github.com/mlab-modules/BATPOWER01
+homepage: false
+images:
+- doc/img/BATPOWER01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: BATPOWER01
+updated: '2023-09-17T11:37:39.775735+00:00'
